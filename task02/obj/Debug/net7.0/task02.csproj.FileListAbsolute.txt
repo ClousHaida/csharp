@@ -1,0 +1,14 @@
+C:\Users\clous\Desktop\csharp\task02\obj\Debug\net7.0\task02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clous\Desktop\csharp\task02\obj\Debug\net7.0\task02.AssemblyInfoInputs.cache
+C:\Users\clous\Desktop\csharp\task02\obj\Debug\net7.0\task02.AssemblyInfo.cs
+C:\Users\clous\Desktop\csharp\task02\obj\Debug\net7.0\task02.csproj.CoreCompileInputs.cache
+C:\Users\clous\Desktop\csharp\task02\bin\Debug\net7.0\task02.exe
+C:\Users\clous\Desktop\csharp\task02\bin\Debug\net7.0\task02.deps.json
+C:\Users\clous\Desktop\csharp\task02\bin\Debug\net7.0\task02.runtimeconfig.json
+C:\Users\clous\Desktop\csharp\task02\bin\Debug\net7.0\task02.dll
+C:\Users\clous\Desktop\csharp\task02\bin\Debug\net7.0\task02.pdb
+C:\Users\clous\Desktop\csharp\task02\obj\Debug\net7.0\task02.dll
+C:\Users\clous\Desktop\csharp\task02\obj\Debug\net7.0\refint\task02.dll
+C:\Users\clous\Desktop\csharp\task02\obj\Debug\net7.0\task02.pdb
+C:\Users\clous\Desktop\csharp\task02\obj\Debug\net7.0\task02.genruntimeconfig.cache
+C:\Users\clous\Desktop\csharp\task02\obj\Debug\net7.0\ref\task02.dll

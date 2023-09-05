@@ -1,0 +1,14 @@
+C:\Users\clous\Desktop\csharp\task22\bin\Debug\net7.0\task22.exe
+C:\Users\clous\Desktop\csharp\task22\bin\Debug\net7.0\task22.deps.json
+C:\Users\clous\Desktop\csharp\task22\bin\Debug\net7.0\task22.runtimeconfig.json
+C:\Users\clous\Desktop\csharp\task22\bin\Debug\net7.0\task22.dll
+C:\Users\clous\Desktop\csharp\task22\bin\Debug\net7.0\task22.pdb
+C:\Users\clous\Desktop\csharp\task22\obj\Debug\net7.0\task22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clous\Desktop\csharp\task22\obj\Debug\net7.0\task22.AssemblyInfoInputs.cache
+C:\Users\clous\Desktop\csharp\task22\obj\Debug\net7.0\task22.AssemblyInfo.cs
+C:\Users\clous\Desktop\csharp\task22\obj\Debug\net7.0\task22.csproj.CoreCompileInputs.cache
+C:\Users\clous\Desktop\csharp\task22\obj\Debug\net7.0\task22.dll
+C:\Users\clous\Desktop\csharp\task22\obj\Debug\net7.0\refint\task22.dll
+C:\Users\clous\Desktop\csharp\task22\obj\Debug\net7.0\task22.pdb
+C:\Users\clous\Desktop\csharp\task22\obj\Debug\net7.0\task22.genruntimeconfig.cache
+C:\Users\clous\Desktop\csharp\task22\obj\Debug\net7.0\ref\task22.dll

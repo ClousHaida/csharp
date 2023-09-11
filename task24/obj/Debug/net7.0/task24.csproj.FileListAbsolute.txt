@@ -1,0 +1,14 @@
+C:\Users\clous\Desktop\csharp\task24\obj\Debug\net7.0\task24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clous\Desktop\csharp\task24\obj\Debug\net7.0\task24.AssemblyInfoInputs.cache
+C:\Users\clous\Desktop\csharp\task24\obj\Debug\net7.0\task24.AssemblyInfo.cs
+C:\Users\clous\Desktop\csharp\task24\obj\Debug\net7.0\task24.csproj.CoreCompileInputs.cache
+C:\Users\clous\Desktop\csharp\task24\bin\Debug\net7.0\task24.exe
+C:\Users\clous\Desktop\csharp\task24\bin\Debug\net7.0\task24.deps.json
+C:\Users\clous\Desktop\csharp\task24\bin\Debug\net7.0\task24.runtimeconfig.json
+C:\Users\clous\Desktop\csharp\task24\bin\Debug\net7.0\task24.dll
+C:\Users\clous\Desktop\csharp\task24\bin\Debug\net7.0\task24.pdb
+C:\Users\clous\Desktop\csharp\task24\obj\Debug\net7.0\task24.dll
+C:\Users\clous\Desktop\csharp\task24\obj\Debug\net7.0\refint\task24.dll
+C:\Users\clous\Desktop\csharp\task24\obj\Debug\net7.0\task24.pdb
+C:\Users\clous\Desktop\csharp\task24\obj\Debug\net7.0\task24.genruntimeconfig.cache
+C:\Users\clous\Desktop\csharp\task24\obj\Debug\net7.0\ref\task24.dll

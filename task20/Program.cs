@@ -20,7 +20,6 @@ int C = z2 - z1;
 double length = Math.Sqrt(A * A + B * B + C * C);
 Console.WriteLine("Расстояние = " + length);
 
-// Метод
 int ReadInt(string message)
 {
     Console.Write(message);

@@ -1,0 +1,14 @@
+C:\Users\clous\Desktop\csharp\task33\obj\Debug\net7.0\task33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clous\Desktop\csharp\task33\obj\Debug\net7.0\task33.AssemblyInfoInputs.cache
+C:\Users\clous\Desktop\csharp\task33\obj\Debug\net7.0\task33.AssemblyInfo.cs
+C:\Users\clous\Desktop\csharp\task33\obj\Debug\net7.0\task33.csproj.CoreCompileInputs.cache
+C:\Users\clous\Desktop\csharp\task33\bin\Debug\net7.0\task33.exe
+C:\Users\clous\Desktop\csharp\task33\bin\Debug\net7.0\task33.deps.json
+C:\Users\clous\Desktop\csharp\task33\bin\Debug\net7.0\task33.runtimeconfig.json
+C:\Users\clous\Desktop\csharp\task33\bin\Debug\net7.0\task33.dll
+C:\Users\clous\Desktop\csharp\task33\bin\Debug\net7.0\task33.pdb
+C:\Users\clous\Desktop\csharp\task33\obj\Debug\net7.0\task33.dll
+C:\Users\clous\Desktop\csharp\task33\obj\Debug\net7.0\refint\task33.dll
+C:\Users\clous\Desktop\csharp\task33\obj\Debug\net7.0\task33.pdb
+C:\Users\clous\Desktop\csharp\task33\obj\Debug\net7.0\task33.genruntimeconfig.cache
+C:\Users\clous\Desktop\csharp\task33\obj\Debug\net7.0\ref\task33.dll

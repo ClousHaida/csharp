@@ -5,6 +5,7 @@
 */
 
 
+// System.Console.WriteLine("Введите число: ");
 int arrayLength = Convert.ToInt32(Console.ReadLine());
 
 int [] GetRandom(int arrayLength)

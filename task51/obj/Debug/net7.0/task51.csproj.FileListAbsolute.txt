@@ -1,0 +1,4 @@
+C:\Users\clous\Desktop\csharp\task51\obj\Debug\net7.0\task51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clous\Desktop\csharp\task51\obj\Debug\net7.0\task51.AssemblyInfoInputs.cache
+C:\Users\clous\Desktop\csharp\task51\obj\Debug\net7.0\task51.AssemblyInfo.cs
+C:\Users\clous\Desktop\csharp\task51\obj\Debug\net7.0\task51.csproj.CoreCompileInputs.cache

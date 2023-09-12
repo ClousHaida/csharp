@@ -1,0 +1,14 @@
+C:\Users\clous\Desktop\csharp\task36\obj\Debug\net7.0\task36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clous\Desktop\csharp\task36\obj\Debug\net7.0\task36.AssemblyInfoInputs.cache
+C:\Users\clous\Desktop\csharp\task36\obj\Debug\net7.0\task36.AssemblyInfo.cs
+C:\Users\clous\Desktop\csharp\task36\obj\Debug\net7.0\task36.csproj.CoreCompileInputs.cache
+C:\Users\clous\Desktop\csharp\task36\bin\Debug\net7.0\task36.exe
+C:\Users\clous\Desktop\csharp\task36\bin\Debug\net7.0\task36.deps.json
+C:\Users\clous\Desktop\csharp\task36\bin\Debug\net7.0\task36.runtimeconfig.json
+C:\Users\clous\Desktop\csharp\task36\bin\Debug\net7.0\task36.dll
+C:\Users\clous\Desktop\csharp\task36\bin\Debug\net7.0\task36.pdb
+C:\Users\clous\Desktop\csharp\task36\obj\Debug\net7.0\task36.dll
+C:\Users\clous\Desktop\csharp\task36\obj\Debug\net7.0\refint\task36.dll
+C:\Users\clous\Desktop\csharp\task36\obj\Debug\net7.0\task36.pdb
+C:\Users\clous\Desktop\csharp\task36\obj\Debug\net7.0\task36.genruntimeconfig.cache
+C:\Users\clous\Desktop\csharp\task36\obj\Debug\net7.0\ref\task36.dll

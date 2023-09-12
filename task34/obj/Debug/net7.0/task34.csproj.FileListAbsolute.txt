@@ -1,0 +1,14 @@
+C:\Users\clous\Desktop\csharp\task34\obj\Debug\net7.0\task34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clous\Desktop\csharp\task34\obj\Debug\net7.0\task34.AssemblyInfoInputs.cache
+C:\Users\clous\Desktop\csharp\task34\obj\Debug\net7.0\task34.AssemblyInfo.cs
+C:\Users\clous\Desktop\csharp\task34\obj\Debug\net7.0\task34.csproj.CoreCompileInputs.cache
+C:\Users\clous\Desktop\csharp\task34\bin\Debug\net7.0\task34.exe
+C:\Users\clous\Desktop\csharp\task34\bin\Debug\net7.0\task34.deps.json
+C:\Users\clous\Desktop\csharp\task34\bin\Debug\net7.0\task34.runtimeconfig.json
+C:\Users\clous\Desktop\csharp\task34\bin\Debug\net7.0\task34.dll
+C:\Users\clous\Desktop\csharp\task34\bin\Debug\net7.0\task34.pdb
+C:\Users\clous\Desktop\csharp\task34\obj\Debug\net7.0\task34.dll
+C:\Users\clous\Desktop\csharp\task34\obj\Debug\net7.0\refint\task34.dll
+C:\Users\clous\Desktop\csharp\task34\obj\Debug\net7.0\task34.pdb
+C:\Users\clous\Desktop\csharp\task34\obj\Debug\net7.0\task34.genruntimeconfig.cache
+C:\Users\clous\Desktop\csharp\task34\obj\Debug\net7.0\ref\task34.dll

@@ -1,0 +1,14 @@
+C:\Users\clous\Desktop\csharp\task69\obj\Debug\net7.0\task69.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clous\Desktop\csharp\task69\obj\Debug\net7.0\task69.AssemblyInfoInputs.cache
+C:\Users\clous\Desktop\csharp\task69\obj\Debug\net7.0\task69.AssemblyInfo.cs
+C:\Users\clous\Desktop\csharp\task69\obj\Debug\net7.0\task69.csproj.CoreCompileInputs.cache
+C:\Users\clous\Desktop\csharp\task69\bin\Debug\net7.0\task69.exe
+C:\Users\clous\Desktop\csharp\task69\bin\Debug\net7.0\task69.deps.json
+C:\Users\clous\Desktop\csharp\task69\bin\Debug\net7.0\task69.runtimeconfig.json
+C:\Users\clous\Desktop\csharp\task69\bin\Debug\net7.0\task69.dll
+C:\Users\clous\Desktop\csharp\task69\bin\Debug\net7.0\task69.pdb
+C:\Users\clous\Desktop\csharp\task69\obj\Debug\net7.0\task69.dll
+C:\Users\clous\Desktop\csharp\task69\obj\Debug\net7.0\refint\task69.dll
+C:\Users\clous\Desktop\csharp\task69\obj\Debug\net7.0\task69.pdb
+C:\Users\clous\Desktop\csharp\task69\obj\Debug\net7.0\task69.genruntimeconfig.cache
+C:\Users\clous\Desktop\csharp\task69\obj\Debug\net7.0\ref\task69.dll

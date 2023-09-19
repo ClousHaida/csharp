@@ -3,17 +3,17 @@
 */
 Console.Clear();
 
-int[,] GetRandom2DArray(int row, int col, int deviation)
+int[,] GetRandom2DArray(int m, int n)
 {
-    int[,] result = new int[row, col];
-    for (int i = 0; i < row; i++)
+    int[,] array = new int[m, n];
+    for (int i = 0; i < m; i++)
     {
-        for (int j = 0; j < col; j++)
+        for (int j = 0; j < n; j++)
         {
-            result[i, j] = new Random().Next(-deviation, deviation);
+            array[i, j] = i + j;
         }
     }
-    return result;
+    return array;
 }
 
 void Print2DArray(int[,] arrayToPrint)
@@ -35,23 +35,5 @@ void Print2DArray(int[,] arrayToPrint)
     }
 }
 
-int[,] DoubleEven2DArray(int[,] array)
-{
-    int row = array.GetLength(0);
-    int col = array.GetLength(1);
-    int[,] result = new int[row, col];
-    for (int i = 0; i < row; i++)
-    {
-        for (int j = 0; j < col; j++)
-        {
-            if (i % 2 == 0 && j % 2 == 0) result[i, j] = array[i, j] * array[i, j];
-            else result[i, j] =array[i,j];
-        }
-    }
-    return result;
-}
-
-int[,] Array = GetRandom2DArray(5, 5, 10);
+int[,] Array = GetRandom2DArray(5, 5);
 Print2DArray(Array);
-int[,] newArray = DoubleEven2DArray(Array);
-Print2DArray(newArray);

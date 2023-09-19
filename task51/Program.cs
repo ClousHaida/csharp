@@ -49,7 +49,7 @@ int CountSumArray(int[,] array)
     return result;
 }
 
-int[,] Arr = Get2DArray(5, 5, 0, 10);
+int[,] Arr = Get2DArray(10, 5, 0, 10);
 Print2DArray(Arr);
 System.Console.WriteLine();
 System.Console.WriteLine(CountSumArray(Arr));

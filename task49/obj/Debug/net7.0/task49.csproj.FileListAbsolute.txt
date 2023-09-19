@@ -1,0 +1,14 @@
+C:\Users\clous\Desktop\csharp\task49\bin\Debug\net7.0\task49.exe
+C:\Users\clous\Desktop\csharp\task49\bin\Debug\net7.0\task49.deps.json
+C:\Users\clous\Desktop\csharp\task49\bin\Debug\net7.0\task49.runtimeconfig.json
+C:\Users\clous\Desktop\csharp\task49\bin\Debug\net7.0\task49.dll
+C:\Users\clous\Desktop\csharp\task49\bin\Debug\net7.0\task49.pdb
+C:\Users\clous\Desktop\csharp\task49\obj\Debug\net7.0\task49.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clous\Desktop\csharp\task49\obj\Debug\net7.0\task49.AssemblyInfoInputs.cache
+C:\Users\clous\Desktop\csharp\task49\obj\Debug\net7.0\task49.AssemblyInfo.cs
+C:\Users\clous\Desktop\csharp\task49\obj\Debug\net7.0\task49.csproj.CoreCompileInputs.cache
+C:\Users\clous\Desktop\csharp\task49\obj\Debug\net7.0\task49.dll
+C:\Users\clous\Desktop\csharp\task49\obj\Debug\net7.0\refint\task49.dll
+C:\Users\clous\Desktop\csharp\task49\obj\Debug\net7.0\task49.pdb
+C:\Users\clous\Desktop\csharp\task49\obj\Debug\net7.0\task49.genruntimeconfig.cache
+C:\Users\clous\Desktop\csharp\task49\obj\Debug\net7.0\ref\task49.dll

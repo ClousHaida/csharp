@@ -6,7 +6,7 @@ Console.WriteLine("введите номер строки:");
 int n = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("введите номер столбца: ");
 int m = Convert.ToInt32(Console.ReadLine());
-int [,] numbers = new int [10,10];
+int [,] numbers = new int [5,5];
 FillRandom(numbers);
 
 if (n > numbers.GetLength(0) || m > numbers.GetLength(1))

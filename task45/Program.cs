@@ -1,20 +1,18 @@
 ﻿/*
-Напишите программу, котора ябудет создавать копию заданного одномерного массива с помощью поэлементного копирования.
+Напишите программу, которая ябудет создавать копию заданного одномерного массива с помощью поэлементного копирования.
 */
 using System.Collections;
-int[] array = { 1, 2, 3, 4, 5 };
+double[] array = { 1, 2, 3, 4, 5 };
 
-int[] CopyArray(int[] array)
+double[] CopyArray(double[] array)
 {
-    int[] arrayL = new int[array.Length];
+    double[] arrayL = new double[array.Length];
     for (int i = 0; i < array.Length; i++)
     {
         arrayL[i] = array[i];
     }
     return arrayL;
 }
-
-// int[] userArray = CopyArray(array);
 
 void PrintArray(double[] arrayToPrint)
 {
@@ -27,6 +25,6 @@ void PrintArray(double[] arrayToPrint)
     Console.Write("]");
 }
 
-int[] userArray = CopyArray(array);
+double[] userArray = CopyArray(array);
 
 PrintArray(userArray);

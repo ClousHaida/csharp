@@ -2,3 +2,13 @@ C:\Users\clous\Desktop\csharp\task51\obj\Debug\net7.0\task51.GeneratedMSBuildEdi
 C:\Users\clous\Desktop\csharp\task51\obj\Debug\net7.0\task51.AssemblyInfoInputs.cache
 C:\Users\clous\Desktop\csharp\task51\obj\Debug\net7.0\task51.AssemblyInfo.cs
 C:\Users\clous\Desktop\csharp\task51\obj\Debug\net7.0\task51.csproj.CoreCompileInputs.cache
+C:\Users\clous\Desktop\csharp\task51\bin\Debug\net7.0\task51.exe
+C:\Users\clous\Desktop\csharp\task51\bin\Debug\net7.0\task51.deps.json
+C:\Users\clous\Desktop\csharp\task51\bin\Debug\net7.0\task51.runtimeconfig.json
+C:\Users\clous\Desktop\csharp\task51\bin\Debug\net7.0\task51.dll
+C:\Users\clous\Desktop\csharp\task51\bin\Debug\net7.0\task51.pdb
+C:\Users\clous\Desktop\csharp\task51\obj\Debug\net7.0\task51.dll
+C:\Users\clous\Desktop\csharp\task51\obj\Debug\net7.0\refint\task51.dll
+C:\Users\clous\Desktop\csharp\task51\obj\Debug\net7.0\task51.pdb
+C:\Users\clous\Desktop\csharp\task51\obj\Debug\net7.0\task51.genruntimeconfig.cache
+C:\Users\clous\Desktop\csharp\task51\obj\Debug\net7.0\ref\task51.dll

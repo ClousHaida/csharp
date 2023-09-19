@@ -34,11 +34,11 @@ void Print2DArray(int[,] arrayToPrint)
     }
 }
 
-int[,] CountSumArray(int[,] array)
+int CountSumArray(int[,] array)
 {
     int result = 0;
-    int row = array.GetLength(0);
-    int col = array.GetLength(1);
+    int col = array.GetLength(0);
+    int row = array.GetLength(1);
     int size = col;
     if (col > row) size = row;
 
@@ -49,9 +49,7 @@ int[,] CountSumArray(int[,] array)
     return result;
 }
 
-int Array = Get2DArray(5, 5, 0, 10);
-Print2DArray(Array);
+int[,] Arr = Get2DArray(5, 5, 0, 10);
+Print2DArray(Arr);
 System.Console.WriteLine();
-System.Console.WriteLine(CountSumArray(Array));
-
-//снова выдает ошибку....
+System.Console.WriteLine(CountSumArray(Arr));
